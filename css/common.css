@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: blue;
+}
+h2{
+color: rgb(154, 22, 22);
+}
+li{
+    display: inline;
+    position: relative;
+    justify-content: center;
+    
+}
+nav{
+    background-color: blueviolet;
+}
