@@ -7,6 +7,9 @@ position: relative;
 border-radius: 10px;
 margin-right: 20px;
 }
-aside{
-
+h3{
+    margin-top: 3em;
+}
+aside p{
+    width: 80%;
 }

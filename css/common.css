@@ -8,7 +8,7 @@ h1{
 h2{
 color: rgb(154, 22, 22);
 }
-li{
+nav li {
     float: left;
     position: relative;
    left: 25%;
@@ -41,27 +41,29 @@ header img {
 h1{
     position: relative;
    justify-content: center;
-  
    text-align: center;
+   border-bottom: solid white 2px;
+   
 }
 footer{
     background-color: blueviolet;
     clear: left;
     position: relative;
-    text-align: center;
+   
 }
 footer p{
-    float: left;
+   margin-left: 40%;
     margin-right:30px ;
    position: relative;
-   
+   background-color: blueviolet;
+   float:left;
+}
+footer a{
+    background-color: blueviolet;
+    
 }
 footer img{
     height: 40px;
     width: 40px;
-   
-}
-img{
-    height: 3   0em;
-    width: 30em;
+    background-color: blueviolet;
 }
